@@ -6,45 +6,45 @@ The Forkify web application is a comprehensive online platform built during a Ja
 
 ## Functionalities
 
-**1.** **Recipe Search**\
+**1.** **Recipe Search**
 - Search for recipes by name or ingredient
 - Display recipe results with images, cooking times, and serving sizes
 - Implement advanced search features, such as filtering by cooking time, ingredient, or dietary restriction
 
-**2.** **Recipe Details**\
+**2.** **Recipe Details**
 - View detailed recipe information, including ingredients, instructions, and nutritional data
 - Toggle between metric and imperial units
 - Display recipe ratings and reviews from other users
 - Allow users to add their own recipe reviews and ratings
 
-**3.** **Shopping List**\
+**3.** **Shopping List**
 - Add and remove ingredients from a shopping list
 - Automatically generate a shopping list based on selected recipes
 - Organize shopping list by aisle or category
 - Allow users to mark ingredients as purchased
 
-**4.** **Likes and Favorites**\
+**4.** **Likes and Favorites**
 - Like and unlike recipes
 - Save favorite recipes for easy access
 - Display liked and favorite recipes in a dedicated section
 - Allow users to add notes or tags to their favorite recipes
 
-**5.** **User Profile**\
+**5.** **User Profile**
 - Create and manage a user profile
 - Save and retrieve user data, including liked and favorite recipes
 - Display user profile information, such as name and profile picture
 - Allow users to edit their profile information
 
-**6.** **Responsive Design**\
+**6.** **Responsive Design**
 - Fully responsive design for optimal viewing on various devices, including desktops, laptops, tablets, and mobile phones
 - Ensure that all features and functionalities are accessible on different devices
 
-**7.** **Error Handling**\
+**7.** **Error Handling**
 - Implement error handling for API requests and user input
 - Display error messages in a user-friendly format
 - Provide feedback to users when errors occur
 
-**8.** **Accessibility**\
+**8.** **Accessibility**
 - Ensure that the web application is accessible to users with disabilities
 - Follow Web Content Accessibility Guidelines (WCAG 2.1) for accessibility
 - Implement features such as screen reader support and keyboard navigation
